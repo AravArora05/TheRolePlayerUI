@@ -25,8 +25,8 @@ const SelectedAuthor = ()=> {
     return (
         <>
         <SiteHeader></SiteHeader>
-        <AuthorDescription author={authorData.filter((author) => value === author.id)}></AuthorDescription>
-        <ArticlesSection articles ={articleData.filter((article) => article.authorId === value)}></ArticlesSection>
+        <AuthorDescription author={authorData.filter((author) => Number(value) === Number(author.id))}></AuthorDescription>
+        <ArticlesSection articles ={articleData.filter((article) => Number(article.authorId) === Number(value))}></ArticlesSection>
         </>
     );
     

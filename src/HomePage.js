@@ -10,7 +10,7 @@ const HomePage = ()=> {
     /**
      * You can individuall set the ID here!!!!
      */
-    const { error, isPending, data } = useFetch(`https://raw.githubusercontent.com/AravArora05/TheRolePlayerJSON/main/db.json`);
+    const {error, isPending, data} = useFetch("http://localhost:8000/articles");
     const id = 1;
     if (error) {
         return <div className="notWorking">{error}</div>
@@ -46,7 +46,7 @@ const HomePage = ()=> {
             let date1 = new Date(newFirstDate);
             let date2 = new Date(newSecondDate);
             return date1 - date2;
-        }).reverse().filter((article) => article.id !== id)
+        }).reverse().filter((article) => Number(article.id) !== Number(id))
        }></ArticlesSection>
        </>
     );

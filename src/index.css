@@ -234,6 +234,7 @@ button {
 
 /* Featured Article */
 .featured-article {
+  margin-top: 13px;
   width: 80%;
   margin: 0px auto;
   display: grid;
@@ -247,6 +248,7 @@ button {
   align-items: start;
   justify-items: start;
   font-family: 'Roboto', sans-serif;
+  margin-top: 10px;
 }
 
 .featured-article img.featured-article-image {
