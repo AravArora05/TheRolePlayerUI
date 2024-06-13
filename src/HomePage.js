@@ -10,7 +10,7 @@ const HomePage = ()=> {
     /**
      * You can individuall set the ID here!!!!
      */
-    const { error, isPending, data } = useFetch(`${process.env.REACT_APP_API_URL}`);
+    const { error, isPending, data } = useFetch(`https://raw.githubusercontent.com/AravArora05/TheRolePlayerJSON/main/db.json`);
     const id = 1;
     if (error) {
         return <div className="notWorking">{error}</div>
