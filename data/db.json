@@ -1,0 +1,272 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Arav Arora",
+      "intro": "Arav Arora is a second-year computer science student from Georgia Tech. He enjoys watching the Boston Celtics.",
+      "linkedin": "https://www.linkedin.com/in/arav-arora-5b5b1228b/",
+      "github": "https://github.com/AravArora05",
+      "image": "https://media.licdn.com/dms/image/D4D03AQFBdNKEWhHdiw/profile-displayphoto-shrink_400_400/0/1694206752071?e=1722470400&v=beta&t=1MGRwgywR1P0DEpVum0fVFiWL_tri1u8cbIvxNmtpz8"
+    },
+    {
+      "id": 2,
+      "name": "Moksh Shah",
+      "intro": "Moksh Shah is a second-year computer science student at Georgia Tech! He loves Bayern Munich and FC Barcelona.",
+      "linkedin": "https://www.linkedin.com/in/moksh-shah/",
+      "github": "https://github.com/mnshah0101",
+      "image": "https://media.licdn.com/dms/image/D4E03AQFGNAEy8FmTew/profile-displayphoto-shrink_200_200/0/1684209357812?e=2147483647&v=beta&t=XCN_QgsuS_au94p5FeWkRPzRjwsmjp1H2S739ZgbeS4"
+    },
+    {
+      "id": 3,
+      "name": "Viswa Subramaniam",
+      "intro": "Viswa Subramaniam attends UVA! He's into the NBA, and he loves supporting the Baltimore Ravens.",
+      "linkedin": "https://www.linkedin.com/in/viswa-subramanian/",
+      "github": "https://github.com/mnshah0101",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGGLu8gVNrbdg/profile-displayphoto-shrink_400_400/0/1709001387355?e=1722470400&v=beta&t=SHlYe9d67RmS8QVyURvPP86hRCaQTQjIGKJ2RU488es"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "authorId": 1,
+      "authorName": "Arav Arora",
+      "date": "May 25th, 2024",
+      "sport": "MLB",
+      "title": "Can Jalen Brunson continue this success in the 2024 Season? Or is he due for a down year?",
+      "imageSrc": "https://media.nbcboston.com/2023/12/Jayson-Tatum-USATSI_22173730.jpg?quality=85&strip=all&resize=320%2C180",
+      "caption": {
+        "figcaption": "An exciting game in progress during the MLB season.",
+        "creator": "John Doe",
+        "credit": "Sports Magazine"
+      },
+      "content": [
+        "<p className='articleContent'>The MLB season has been full of surprises this year. Teams are showing unexpected performances.</p>",
+        "<p className='articleContent'>Key players have been injured, affecting the dynamics of the game significantly.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?mlb1' alt='' />",
+        "<p className='articleContent'>Rookies are stepping up, bringing new energy and talent to the field.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?mlb2' alt='' />",
+        "<p className='articleContent'>A rookie making his mark in the MLB.</p>",
+        "<div className='articleContent'><img src='https://source.unsplash.com/random/300x200?mlb3' alt='' /><img src='https://source.unsplash.com/random/300x200?mlb4' alt='' /></div>",
+        "<p className='articleContent'>Statistical performance graph of MLB teams.</p>"
+      ]
+    },
+    {
+      "id": 2,
+      "authorId": 2,
+      "authorName": "Moksh Shah",
+      "date": "May 24th, 2024",
+      "sport": "Soccer",
+      "title": "Soccer League Intensity",
+      "imageSrc": "https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MjAyOTUwMTU0NTk5Mjc3NTgw/jalen-brunson.jpg",
+      "caption": {
+        "figcaption": "A thrilling soccer match in progress.",
+        "creator": "Jane Smith",
+        "credit": "Football Weekly"
+      },
+      "content": [
+        "<p className='articleContent'>Soccer leagues around the world are witnessing intense competition. The race for the top spots is fiercer than ever.</p>",
+        "<p className='articleContent'>Some underdog teams have shown remarkable improvement this season.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?soccer1' alt='' />",
+        "<p className='articleContent'>Star players are delivering consistent performances, keeping the fans thrilled.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?soccer2' alt='' />",
+        "<p className='articleContent'>A star player making a crucial play.</p>",
+        "<div className='articleContent'><img src='https://source.unsplash.com/random/300x200?soccer3' alt='' /><img src='https://source.unsplash.com/random/300x200?soccer4' alt='' /></div>",
+        "<p className='articleContent'>Performance analysis graph of soccer teams.</p>"
+      ]
+    },
+    {
+      "id": 3,
+      "authorId": 3,
+      "authorName": "Viswa Subramaniam",
+      "date": "May 23rd, 2024",
+      "sport": "NBA",
+      "title": "NBA Playoff Drama",
+      "imageSrc": "https://source.unsplash.com/random/300x200?nba",
+      "caption": {
+        "figcaption": "A veteran player leading his team to victory.",
+        "creator": "Mike Johnson",
+        "credit": "Basketball World"
+      },
+      "content": [
+        "<p className='articleContent'>The NBA playoffs are heating up with some unexpected twists. Teams are battling hard for a spot in the finals.</p>",
+        "<p className='articleContent'>Veteran players are showcasing their experience, leading their teams with exceptional skills.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?nba1' alt='' />",
+        "<p className='articleContent'>Young talents are emerging, bringing fresh strategies to the game.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?nba2' alt='' />",
+        "<p className='articleContent'>A young player making an impact in the NBA.</p>",
+        "<div className='articleContent'><img src='https://source.unsplash.com/random/300x200?nba3' alt='' /><img src='https://source.unsplash.com/random/300x200?nba4' alt='' /></div>",
+        "<p className='articleContent'>NBA playoff performance statistics.</p>"
+      ]
+    },
+    {
+      "id": 4,
+      "authorId": 1,
+      "authorName": "Arav Arora",
+      "date": "May 22nd, 2024",
+      "sport": "NFL",
+      "title": "NFL Draft Highlights",
+      "imageSrc": "https://source.unsplash.com/random/300x200?nfl",
+      "caption": {
+        "figcaption": "Rookies training hard at the NFL camp.",
+        "creator": "Sarah Lee",
+        "credit": "Sports Illustrated"
+      },
+      "content": [
+        "<p className='articleContent'>The NFL draft has brought in new talent that teams are eager to develop. Coaches are optimistic about the fresh prospects.</p>",
+        "<p className='articleContent'>Training camps are in full swing, with rookies and veterans working hard.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?nfl1' alt='' />",
+        "<p className='articleContent'>Season strategies are being fine-tuned to maximize team strengths.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?nfl2' alt='' />",
+        "<p className='articleContent'>Coaches strategizing for the upcoming NFL season.</p>",
+        "<div className='articleContent'><img src='https://source.unsplash.com/random/300x200?nfl3' alt='' /><img src='https://source.unsplash.com/random/300x200?nfl4' alt='' /></div>",
+        "<p className='articleContent'>NFL draft performance analysis.</p>"
+      ]
+    },
+    {
+      "id": 5,
+      "authorId": 2,
+      "authorName": "Moksh Shah",
+      "date": "May 21st, 2024",
+      "sport": "MLB",
+      "title": "Dominating MLB Pitchers",
+      "imageSrc": "https://source.unsplash.com/random/300x200?mlb",
+      "caption": {
+        "figcaption": "A pitcher delivering an outstanding performance.",
+        "creator": "John Franklin",
+        "credit": "ESPN"
+      },
+      "content": [
+        "<h2 class='articleContent'>Outstanding Performances</h2>",
+        "<p class='articleContent'>Pitchers are dominating the season with record-breaking performances. Fans are witnessing some of the best pitching in years, making every game a thrilling experience. The skill level displayed by these pitchers is extraordinary, often leaving batters guessing and struggling to make contact. The precision and power of these pitches have set a new standard in the league. Pitchers have been consistently throwing fastballs exceeding 100 mph and curveballs that drop sharply, baffling even the most experienced batters. This season has truly been a showcase of pitching excellence, with several pitchers on pace to break long-standing records.</p>",
+        "<p class='articleContent'>Batters are finding it challenging to score against top-notch pitchers. The duels between pitchers and batters are creating some of the most exciting moments in the sport. Every at-bat becomes a strategic battle, with pitchers constantly adjusting their approach to outsmart the batters. This intense competition has raised the overall quality of the games, making each one a must-watch event for fans. The psychological aspect of these battles cannot be understated, as both pitchers and batters try to anticipate each other's moves. Fans are treated to a chess match on the field, where one wrong move can decide the outcome of the game.</p>",
+        "<img class='articleContent' src='https://tmssl.akamaized.net/images/foto/galerie/ronaldo-cristiano-2017-real-madrid-ballon-d-or-2016-0026751808hjpg-1698686328-120749.jpg?lm=1698686338' alt='MLB Image 1' />",
+        "<figcaption>A pitcher delivering a powerful pitch. (Photo by Sports Photographer, ESPN)</figcaption>",
+        "<p class='articleContent'>The competition between teams is getting stiffer as the season progresses. Every win and loss is crucial in the race for the playoffs. Teams are constantly analyzing their opponents and fine-tuning their strategies to gain an edge. The pressure is mounting, and every game has significant implications for the postseason. This has led to some unexpected upsets and thrilling comebacks, keeping fans engaged throughout the season. Coaches are experimenting with new tactics, and players are pushing their limits to secure a spot in the playoffs. The stakes are high, and the atmosphere is electric as the season heads into its final stretch.</p>",
+        "<img class='articleContent' src='https://tmssl.akamaized.net/images/foto/galerie/ronaldo-cristiano-2017-real-madrid-ballon-d-or-2016-0026751808hjpg-16986863384' alt='MLB Image 2' />",
+        "<figcaption>An intense moment in an MLB game. (Photo by Sports Photographer, ESPN)</figcaption>",
+        "<p class='articleContent'>Performance metrics of MLB pitchers highlight the incredible feats achieved this season. The data showcases the top performers and provides insights into their strategies and techniques. These metrics are not only used by analysts and fans but also by the teams themselves to make informed decisions. Understanding these metrics allows teams to identify strengths and weaknesses, helping them to develop more effective game plans and improve their chances of success. Advanced metrics such as spin rate, pitch velocity, and release point are now integral parts of scouting reports, giving teams a deeper understanding of each player's abilities and potential.</p>",
+        "<div class='articleContent'><img src='https://tmssl.akamaized.net/images/foto/galerie/ronaldo-cristiano-2017-real-madrid-ballon-d-or-2016-0026751808hjpg-1698686328-120749.jpg?lm=1698686338' alt='MLB Image 3' /></div>"
+      ]
+    },
+    {
+      "id": 6,
+      "authorId": 1,
+      "authorName": "Arav Arora",
+      "date": "May 20th, 2024",
+      "sport": "NFL",
+      "title": "NFL Mid-Season Review",
+      "imageSrc": "https://source.unsplash.com/random/300x200?nfl",
+      "caption": {
+        "figcaption": "Players giving their best on the field.",
+        "creator": "David Clark",
+        "credit": "NFL Network"
+      },
+      "content": [
+        "<p className='articleContent'>The NFL season is at its midpoint, and the competition is heating up. Teams are vying for playoff spots, and every game counts.</p>",
+        "<p className='articleContent'>Veteran players are stepping up, showing their experience and leadership on the field.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?nfl1' alt='' />",
+        "<p className='articleContent'>Rookies are making their presence felt with impressive performances.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?nfl2' alt='' />",
+        "<p className='articleContent'>A thrilling moment captured during an NFL game.</p>",
+        "<div className='articleContent'><img src='https://source.unsplash.com/random/300x200?nfl3' alt='' /><img src='https://source.unsplash.com/random/300x200?nfl4' alt='' /></div>",
+        "<p className='articleContent'>Analysis of team performances at the mid-season mark.</p>"
+      ]
+    },
+    {
+      "id": 7,
+      "authorId": 2,
+      "authorName": "Moksh Shah",
+      "date": "May 19th, 2024",
+      "sport": "Soccer",
+      "title": "Top Scorers in European Leagues",
+      "imageSrc": "https://source.unsplash.com/random/300x200?soccer",
+      "caption": {
+        "figcaption": "A goal celebration in a European soccer league.",
+        "creator": "Emma Roberts",
+        "credit": "Soccer Daily"
+      },
+      "content": [
+        "<p className='articleContent'>The top scorers in European leagues are making headlines with their remarkable goal-scoring abilities.</p>",
+        "<p className='articleContent'>These players are consistently delivering, leading their teams to victories.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?soccer1' alt='' />",
+        "<p className='articleContent'>A star player celebrating a goal in a crucial match.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?soccer2' alt='' />",
+        "<p className='articleContent'>An intense moment in a soccer game.</p>",
+        "<div className='articleContent'><img src='https://source.unsplash.com/random/300x200?soccer3' alt='' /><img src='https://source.unsplash.com/random/300x200?soccer4' alt='' /></div>",
+        "<p className='articleContent'>Goal-scoring statistics of top players in European leagues.</p>"
+      ]
+    },
+    {
+      "id": 8,
+      "authorId": 3,
+      "authorName": "Viswa Subramaniam",
+      "date": "May 18th, 2024",
+      "sport": "NBA",
+      "title": "Rising Stars in the NBA",
+      "imageSrc": "https://source.unsplash.com/random/300x200?nba",
+      "caption": {
+        "figcaption": "A young player making a name for himself in the NBA.",
+        "creator": "Sophia Lee",
+        "credit": "NBA Today"
+      },
+      "content": [
+        "<p className='articleContent'>The NBA is witnessing the rise of new stars, bringing fresh talent and energy to the league.</p>",
+        "<p className='articleContent'>These young players are showing exceptional skills, making a significant impact on their teams.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?nba1' alt='' />",
+        "<p className='articleContent'>A rising star in action during an NBA game.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?nba2' alt='' />",
+        "<p className='articleContent'>A young player showcasing his skills on the court.</p>",
+        "<div className='articleContent'><img src='https://source.unsplash.com/random/300x200?nba3' alt='' /><img src='https://source.unsplash.com/random/300x200?nba4' alt='' /></div>",
+        "<p className='articleContent'>Performance analysis of rising stars in the NBA.</p>"
+      ]
+    },
+    {
+      "id": 9,
+      "authorId": 1,
+      "authorName": "Arav Arora",
+      "date": "May 17th, 2024",
+      "sport": "MLB",
+      "title": "MLB Mid-Season Standouts",
+      "imageSrc": "https://source.unsplash.com/random/300x200?mlb",
+      "caption": {
+        "figcaption": "A standout player during an MLB game.",
+        "creator": "Michael Johnson",
+        "credit": "Baseball Digest"
+      },
+      "content": [
+        "<p className='articleContent'>As the MLB season reaches its midpoint, several players have stood out with their exceptional performances.</p>",
+        "<p className='articleContent'>These players are leading their teams to victories with their consistent displays of skill and determination.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?mlb1' alt='' />",
+        "<p className='articleContent'>A standout player making a crucial play in an MLB game.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?mlb2' alt='' />",
+        "<p className='articleContent'>An intense moment in the MLB season.</p>",
+        "<div className='articleContent'><img src='https://source.unsplash.com/random/300x200?mlb3' alt='' /><img src='https://source.unsplash.com/random/300x200?mlb4' alt='' /></div>",
+        "<p className='articleContent'>Mid-season performance statistics of standout MLB players.</p>"
+      ]
+    },
+    {
+      "id": 10,
+      "authorId": 2,
+      "authorName": "Moksh Shah",
+      "date": "May 16th, 2024",
+      "sport": "Soccer",
+      "title": "Underdogs in the Soccer World",
+      "imageSrc": "https://source.unsplash.com/random/300x200?soccer",
+      "caption": {
+        "figcaption": "An underdog team celebrating a victory.",
+        "creator": "Linda Brown",
+        "credit": "Soccer Weekly"
+      },
+      "content": [
+        "<p className='articleContent'>This soccer season has seen several underdog teams rise to the occasion, challenging the traditional powerhouses.</p>",
+        "<p className='articleContent'>These teams have shown remarkable resilience and determination, earning the respect of fans and opponents alike.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?soccer1' alt='' />",
+        "<p className='articleContent'>An underdog team celebrating a hard-fought victory.</p>",
+        "<img className='articleContent' src='https://source.unsplash.com/random/300x200?soccer2' alt='' />",
+        "<p className='articleContent'>A thrilling moment captured during a soccer match.</p>",
+        "<div className='articleContent'><img src='https://source.unsplash.com/random/300x200?soccer3' alt='' /><img src='https://source.unsplash.com/random/300x200?soccer4' alt='' /></div>",
+        "<p className='articleContent'>Performance analysis of underdog teams in the soccer world.</p>"
+      ]
+    }
+  ]
+}
