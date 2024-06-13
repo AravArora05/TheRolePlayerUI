@@ -18,7 +18,6 @@
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.11",
     "web-vitals": "^2.1.4"
-    
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,7 +26,6 @@
     "eject": "react-scripts eject",
     "server": "node server.js"
   },
-  
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -35,7 +33,7 @@
     ]
   },
   "browserslist": {
-    "production": [ 
+    "production": [
       ">0.2%",
       "not dead",
       "not op_mini all"
@@ -45,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
   }
 }
